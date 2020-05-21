@@ -1,3 +1,7 @@
+This project is a simple test to see how to share the state across components using the unstated package.
+
+https://github.com/jamiebuilds/unstated
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
